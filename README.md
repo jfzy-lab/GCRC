@@ -1,0 +1,2 @@
+# GCRC
+This work focuses on multiple-choice questions in Gaokao Chinese. A highly challenging multiple-choice MRC task is from the Chinese University Admission Examination (Gaokao in Chinese), which called GCRC as follows.Unlike its counterparts which rely on numerical reasoning and specialized field knowledge, GCRC focuses on testing language comprehension. All of the questions in this dataset are answerable without any other knowledge.
